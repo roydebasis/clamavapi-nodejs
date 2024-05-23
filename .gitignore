@@ -127,3 +127,5 @@ coverage/
 .env
 /src/fullchain.pem
 /src/privkey.pem
+.idea
+.vscode
