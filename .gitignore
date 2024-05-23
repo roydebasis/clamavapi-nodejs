@@ -125,3 +125,5 @@ coverage/
 
 # development .env file
 .env
+/src/fullchain.pem
+/src/privkey.pem
